@@ -3,6 +3,7 @@
   "description": "Math game to test your basic math skills",
   "main": "",
   "scripts": {
+    "serve": "node --version",
     "start": "webpack serve"
   },
   "devDependencies": {
